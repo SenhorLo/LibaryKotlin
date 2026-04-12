@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biblioteca Digital</string>
+    <string name="login_title">Bem-vindo à Biblioteca</string>
+    <string name="username_hint">Usuário</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="admin_panel">Painel Admin</string>
+    <string name="user_panel">Minha Biblioteca</string>
+    <string name="add_book">Adicionar Livro</string>
+    <string name="edit_book">Editar Livro</string>
+    <string name="delete_book">Remover</string>
+    <string name="rent_book">Alugar</string>
+    <string name="return_book">Devolver</string>
+    <string name="search_hint">Buscar por nome ou tema...</string>
+    <string name="admin_credentials_error">Credenciais de Admin incorretas</string>
+    <string name="empty_fields_error">Preencha todos os campos</string>
+    <string name="book_title_hint">Título</string>
+    <string name="book_author_hint">Autor</string>
+    <string name="book_desc_hint">Descrição</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
